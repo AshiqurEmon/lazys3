@@ -7,6 +7,7 @@ android
 angular
 ansible
 api
+avatar
 apollo
 assets
 attach
