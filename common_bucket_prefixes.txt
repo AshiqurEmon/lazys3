@@ -3,6 +3,7 @@ administration
 administrator
 ads
 release
+security
 releases
 alpha
 android
