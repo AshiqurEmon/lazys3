@@ -2,6 +2,8 @@ admin
 administration
 administrator
 ads
+release
+releases
 alpha
 android
 angular
