@@ -33,6 +33,8 @@ bugs
 bugzilla
 build
 bulletins
+certificate
+certificates
 business-prod
 cdn
 cloud
