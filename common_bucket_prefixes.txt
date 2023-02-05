@@ -157,6 +157,8 @@ reserved
 rest
 s2-pdfs
 s3
+app
+apps
 s3-attachemnts
 s3connectortest
 sales-app
@@ -171,6 +173,7 @@ static
 static-files
 statistics
 stats
+ec2
 subversion
 support
 support-attachments
