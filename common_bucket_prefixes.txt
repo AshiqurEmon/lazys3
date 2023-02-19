@@ -11,6 +11,8 @@ android
 angular
 ansible
 api
+hardware
+software
 apollo
 assets
 trace
