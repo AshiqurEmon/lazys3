@@ -4,12 +4,17 @@ administration
 administrator
 ads
 alpha
+mappings
+dump
+metrics
 android
 angular
 ansible
 api
 apollo
 assets
+trace
+config
 attach
 attachments
 avatars
