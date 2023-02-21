@@ -7,6 +7,8 @@ alpha
 mappings
 dump
 metrics
+cdn2
+cdn3
 android
 angular
 ansible
