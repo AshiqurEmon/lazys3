@@ -164,7 +164,6 @@ s3
 s3-attachemnts
 s3connectortest
 sales-app
-share
 signature
 smoke
 splunk
