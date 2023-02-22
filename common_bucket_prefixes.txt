@@ -207,6 +207,8 @@ windows
 www-assets
 portal
 agportal
+shared
+share
 demo
 blog
 blogs
