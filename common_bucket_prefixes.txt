@@ -3,6 +3,8 @@ admin
 administration
 administrator
 ads
+shopify
+heroku
 alpha
 mappings
 dump
